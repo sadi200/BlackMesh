@@ -11,12 +11,12 @@ if ! command -v lolcat &> /dev/null; then
 fi
 
 # Use toilet to create large text effect as a logo
-logo_text=$(toilet -f mono12 -F border "@Danish2255")
+logo_text=$(toilet -f mono12 -F border "@Earnpoint")
 
 # Display the large text logo
 echo "$logo_text" | lolcat
 
 # Print a longer decorative line and link information
 echo " 🌐 ——————————————————————————————————————————————————————————— 🌐" | lolcat
-echo "   🛰  X : https://x.com/Danish2255  ▪️  TG : https://t.me/Danish2255 🛰" | lolcat
+echo "   🛰  X : https://x.com/sadi9923  ▪️  TG : https://t.me/Earnpoint10 🛰" | lolcat
 echo " 🌐 ——————————————————————————————————————————————————————————— 🌐" | lolcat
