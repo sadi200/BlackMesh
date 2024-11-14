@@ -2,7 +2,7 @@
 
 echo "Displaying qklxsqf logo..."
 wget -O loader.sh https://raw.githubusercontent.com/sadi200/BlackMesh/refs/heads/main/loder.sh && chmod +x loader.sh && ./loader.sh
-curl -s https://raw.githubusercontent.com/FEdanish/BlockMesh/refs/heads/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/sadi200/BlackMesh/refs/heads/main/logo.sh | bash
 sleep 2
 
 # Update and upgrade system packages
